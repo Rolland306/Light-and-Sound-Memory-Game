@@ -46,7 +46,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[https://www.the-art-of-web.com/javascript/creating-sounds/]
+
+https://www.the-art-of-web.com/javascript/creating-sounds/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
@@ -57,7 +58,7 @@ I encountered a challenge in trying to understand all the Javascript  sound synt
 To start with, if we were to build a more complex web application that would incorporate the use of a backend and database, besides considering the loading time for a webpage and security features in a programming language, are there other factors to be considered when choosing which language to use for the application? Also, is there need for one to have extensive knowledge of networking and cybersecurity when building web applications? Finally, is there a need for a developer to have in-depth knowledge of the implementation of libraries used in an application, or it is adequate to only know how to invoke and use methods from libraries?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+To begin with, I would implement a feature that keeps a record of player's scores on a scoreboard even after exiting the game.
 
 
 
