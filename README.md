@@ -59,9 +59,7 @@ To start with, if we were to build a more complex web application that would inc
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-To begin with, I would implement a feature that keeps a record of player's scores on a scoreboard even after exiting the game. In addition, I would include a feature that allows a player to choose a difficulty level. A hard difficult level being one where the clue sequence is played at a fast rate. 
-
-
+To begin with, I would implement a feature that keeps a record of player's scores on a scoreboard even after exiting the game. In addition, I would include a feature that allows a player to choose a difficulty level. A hard difficulty level being one where the clue sequence is played at a fast rate. Moreover, I would include a “special” mode where the player can choose to play until they fail. I would dynamically grow the size of the pattern array on each turn with randomly generated numbers within the range of the number of buttons available. As long as the player guesses correctly, a randomly generated number is added to the pattern array, and its corresponding tone is added to the clue sequence.
 
 ## Interview Recording URL Link
 
