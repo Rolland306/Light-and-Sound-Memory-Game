@@ -63,7 +63,7 @@ To begin with, I would implement a feature that keeps a record of player's score
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/f8703e726dc74635944fd2f5474854e9)
 
 
 ## License
