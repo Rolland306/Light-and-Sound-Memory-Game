@@ -49,3 +49,17 @@ button{
 #button4:active, #button4.lit{
     background:yellow;
 }
+
+#button5{
+  background: orange;
+}
+#button5:active, #button5.lit{
+    background:maroon;
+}
+
+#button6{
+  background: grey;
+}
+#button6:active, #button6.lit{
+    background:black;
+}
