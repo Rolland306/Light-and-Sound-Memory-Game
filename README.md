@@ -39,9 +39,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
+Basic Version
 ![](https://user-images.githubusercontent.com/76987595/157788343-39af9d37-8c6c-44f2-92ba-f591fef8c318.gif)
+
+More than 4 buttons
 ![](https://user-images.githubusercontent.com/76987595/160188368-be4f85cb-f7b8-4b63-b4a1-711914fa0714.gif)
-![](gif3-link-here)
+
+Speed it Up
+![](https://user-images.githubusercontent.com/76987595/160254964-2522aed2-6bef-4a55-8491-67e78fbfdfa0.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
