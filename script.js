@@ -1,11 +1,10 @@
 // global constants
-//const clueHoldTime = 1000; //how long to hold each clue's light/sound
 const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
 
 //Global Variables
 var clueHoldTime = 1000;
-var pattern = [];// [2, 2, 4, 6, 5, 3, 2, 1, 2, 4];
+var pattern = [];
 var progress = 0;
 var gamePlaying = false;
 var tonePlaying = false;
@@ -14,7 +13,7 @@ var guessCounter = 0;
 
 function startGame() {
   //initialize game variables
-  generatePattern(6); // numbers in pattern array in range 0 to 6 inclusive
+  generatePattern(6); // numbers in pattern array in range 1 to 6 inclusive
   clueHoldTime = 1000;
   progress = 0;
   gamePlaying = true;
