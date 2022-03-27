@@ -4,7 +4,7 @@
 
 Submitted by: **ROLLAND MUZEYA**
 
-Time spent: **4** hours spent in total
+Time spent: **7** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/acoustic-marshy-limpet)
 
