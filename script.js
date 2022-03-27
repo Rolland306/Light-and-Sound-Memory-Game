@@ -143,7 +143,7 @@ function guess(btn){
 function generatePattern(max) {
   console.log("pattern generated");
   for (let i = 0; i <= 10; i++) {//10 elements
-    var ele = Math.floor(1+Math.random() * max);//no 0s to be generated
+    var ele = Math.floor(1+Math.random() * max);//no 0s to be generated in our pattern array
     pattern.push(ele);
   }
   
