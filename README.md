@@ -46,7 +46,7 @@ Basic Version
 More than 4 buttons
 ![](https://user-images.githubusercontent.com/76987595/160188368-be4f85cb-f7b8-4b63-b4a1-711914fa0714.gif)
 
-Speed it Up
+Speed it Up and Random pattern
 ![](https://user-images.githubusercontent.com/76987595/160254964-2522aed2-6bef-4a55-8491-67e78fbfdfa0.gif)
 ![](gif4-link-here)
 
