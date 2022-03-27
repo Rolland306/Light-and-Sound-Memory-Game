@@ -57,11 +57,11 @@ https://www.the-art-of-web.com/javascript/creating-sounds/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-I encountered a challenge in trying to understand all the Javascript  sound synthesis functions using the AudioContext library. After reading through the functions that I had to copy and paste into my “scripy.js” file, I had no idea how or why we had to include all the method calls we used to generate the tones. I had a tough time understanding the relevance of method calls like the createOscillator() and createGain() in producing tones. However, after close study of the AudioContext library, I understood that the OscillatorNode referred to the wave type, and the gainNode was simply the change in volume of the sound. Despite the complexity of the code in the SoundPlayer class, I realized that my understanding of key terms of the AudioContext interface was enough for me to understand how code in the sound synthesis functions was serving to produce the tones whenever a button was clicked. Moreover, playing around with the numbers in the freqMap object helped me become more comfortable using the library. Finally, playing around with the values in the pattern array allowed me to have control over the sequence of clues that was to be played, and this consolidated my understanding of the playCueSequence() function.
+I encountered a challenge in trying to understand all the Javascript  sound synthesis functions using the AudioContext library. After reading through the functions that I had to copy and paste into my “script.js” file, I had no idea how or why we had to include all the method calls we used to generate the tones. I had a tough time understanding the relevance of method calls like the createOscillator() and createGain() in producing tones. However, after close study of the AudioContext library, I understood that the OscillatorNode referred to the wave type, and the gainNode was simply the change in volume of the sound. Despite the complexity of the code in the SoundPlayer class, I realized that my understanding of key terms of the AudioContext interface was enough for me to understand how code in the sound synthesis functions was serving to produce the tones whenever a button was clicked. Moreover, playing around with the numbers in the freqMap object helped me become more comfortable using the library. Finally, playing around with the values in the pattern array allowed me to have control over the sequence of clues that was to be played, and this consolidated my understanding of the playCueSequence() function.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-To start with, if we were to build a more complex web application that would incorporate the use of a backend and database, besides considering the loading time for a webpage and security features in a programming language, are there other factors to be considered when choosing which language to use for the application? Also, is there need for one to have extensive knowledge of networking and cybersecurity when building web applications? Finally, is there a need for a developer to have in-depth knowledge of the implementation of libraries used in an application, or it is adequate to only know how to invoke and use methods from libraries?
+To start with, do we have to consider the size of a user’s screen when designing web applications? Since some users can open the web application on mobile phones, do we need to specify somewhere in our html file how to deal with the different screen sizes?  Also, is there need for one to have extensive knowledge of networking and cybersecurity when building web applications? Finally, is there a need for a developer to have in-depth knowledge of the implementation of libraries used in an application, or it is adequate to only know how to invoke and use methods from libraries?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
@@ -74,7 +74,7 @@ To begin with, I would implement a feature that keeps a record of player's score
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [ROLLAND MUZEYA]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
